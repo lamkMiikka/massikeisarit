@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="fi">
+<title>Verkon ulkopuoliset uhat</title>
+<meta charset="UTF-8">
+<head>
+    <style>
+        a:link, a:visited {
+            background-color: #f44336;
+            color: white;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        a:hover, a:active {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <a href="tietoturvaopas etusivu.html"> Etusivu</a>
+    <a href="Verkon sisäiset uhkat.html"> Verkon sisäiset uhkat</a>
+    <a href="Verkon ulkopuoliset uhkat.html"> Verkon ulkopuoliset uhkat  </a>
+    <h1>Verkon ulkopuolinen tietoturva</h1>
+    <p>Verkon ulkopuoliseen tietoturvaan voidaan esimerkiksi fyysisten avaimien säilytys. </p>
+    <h3>Kulkukorttien ja avaimien säilytys</h3>
+    <p>tekstiä</p>
+    <br />
+    <h3>asiakirjojen säilytys</h3>
+    <p>tekstiä</p>
+    <h3>Yleiset turvatoimet</h3>
+    <p>tekstiä></p>
+
+</body>
+</html>
