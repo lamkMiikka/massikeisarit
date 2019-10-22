@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Verkon sisäiset uhkat</title>
+    <style>
+        a:link, a:visited {
+            background-color: #f44336;
+            color: white;
+            padding: 14px 25px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        a:hover, a:active {
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <a href="tietoturvaopas etusivu.html">Etusivu</a>
+    <a href="Verkon sisäiset uhkat.html">Verkon sisäiset uhkat</a>
+    <a href="Verkon ulkopuoliset uhkat.html">Verkon ulkopuoliset uhkat</a>
+    <h1>Verkon sisäiset uhkat</h1>
+    <p>Verkon sisäisiksi uhkiksi voidaan lukea kaikki, mitä työntekijä tekee tai <br />
+    jättää tekemättä yrityksen tietokoneella tai verkossa. </p>
+    <h3>virustorjunta</h3>
+    <p>tekstiä</p>
+    <br />
+    <h3>työpaikan verkon käyttö</h3>
+    <p>tekstiä</p>
+    <br />
+    <h3>Sosiaalisen median käyttö työajalla</h3>
+    <p>tekstiä</p>
+    <br />
+    <h3>salasanat</h3>
+    <p>tekstiä</p>
+
+
+
+</body>
+</html>
